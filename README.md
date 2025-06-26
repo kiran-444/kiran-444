@@ -1,5 +1,5 @@
 # 🤝 About Me:
-# 👋 Hi, I'm Kiran Metri<br><br>🎓 I'm a Computer Science Engineering student passionate about software development and constantly learning new technologies.<br><br> 🌐 Web Development | 💻 DSA Enthusiast<br><br>- 🔭 Currently exploring **Full Stack Web Development** (MERN)<br>- 🧠 Learning **Data Structures and Algorithms** (Java)<br>- 📚 Practicing coding on platforms like LeetCode, GeeksforGeeks
+# 👋 Hi, I'm Kiran Metri<br><br> 🌐 Web Developer(MERN) | 🧠 DSA Enthusiast(Java)<br><br>
 
 
 ## 🌐 Socials:
