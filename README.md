@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Kiran Metri
 🤖 AI/ML Engineer | Data Scientist
 🧠 NLP • RAG • Deep Learning • Computer Vision
-🎓 B.E. CSE Graduate — KLE College of Engineering & Technology (CGPA: 8.50)
+🎓 B.E. CSE Graduate — KLE College of Engineering & Technology (CGPA: 8.53)
 
 ---
 
